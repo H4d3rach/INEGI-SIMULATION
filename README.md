@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project simulates an automated system for generating, storing, and analyzing citizen records, similar to what an institution like **INEGI** (Mexico's national statistics agency) might use.
+It was developed as part of an academic project. This simulates an automated system for generating, storing, and analyzing citizen records, similar to what an institution like **INEGI** (Mexico's national statistics agency) might use.
 
 It consists of three main modules:
 
